@@ -4,3 +4,11 @@
 images/
 
 preview/
+
+train/horse/
+
+train/zebra/
+
+validation/horse/
+
+validation/zebra/
